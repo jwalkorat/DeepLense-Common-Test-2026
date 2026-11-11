@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.env
+
+# dataset, too big for git
+dataset/
+*.zip
+*.npy
